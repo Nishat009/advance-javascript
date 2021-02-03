@@ -3,7 +3,7 @@ function sum(first, second) {
     if (result > 9) {
         var mood = "happy";
         mood = "cranky";
-        mood = "franky";
+        mood = "fanky";
         mood = "fishy";
 
     }
@@ -13,4 +13,3 @@ function sum(first, second) {
     let day = 'friday';
     return result;
 }
-
